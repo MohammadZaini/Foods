@@ -10,6 +10,7 @@ const ResultsDetail = ({result}) => {
 };
 
 const styles = StyleSheet.create({
+    
     container: {
         marginLeft: 15,
     },
